@@ -16,5 +16,6 @@ It understands natural language queries and responds smartly to frequently asked
 ## 👨‍💻 Developed By
 
 **Junaid Ahamed**  
-_Data Science Intern @ CODEAPLHA  
+_AI Intern @ CODEALPHA_  
 📅 Submitted: April 2025
+
